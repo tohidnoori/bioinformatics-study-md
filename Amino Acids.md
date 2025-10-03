@@ -62,3 +62,6 @@ Where:
 | Histidine        | His      | H        | Basic (+/neutral)| Imidazole ring, can act as buffer |
 
 ---
+
+
+![title](https://github.com/tohidnoori/bioinformatics-study/blob/main/img/AminoAcids.png)
