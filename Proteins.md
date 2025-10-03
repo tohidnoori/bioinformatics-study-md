@@ -74,3 +74,32 @@ The two most common secondary structures are:
 - **α-helix** = spiral stabilized by H-bonds every 4 residues.  
 - **β-sheet** = sheet stabilized by H-bonds between strands.  
 - Both are crucial for protein folding and stability.  
+
+---
+## Protein Switching: ON and OFF States   
+#### 1. **Covalent Modification**  
+- Proteins can be chemically modified to switch between active/inactive states.  
+- Most common example:  
+  - **Phosphorylation**: addition of a phosphate group → may activate or inactivate the protein.  
+  - **Dephosphorylation**: removal of a phosphate group → reverses the effect.  
+
+#### 2. **Ligand Binding**  
+- A protein changes shape when a **ligand (small molecule)** binds to it.  
+- This structural change can turn the protein **ON or OFF**.  
+- Example: Hemoglobin binds oxygen → changes activity.  
+
+#### 3. **Conformational Change**  
+- Some proteins switch states simply by altering their **3D shape**.  
+- Example: Ion channels in membranes open (ON) or close (OFF) depending on shape.  
+
+#### 4. **Protein–Protein Interactions**  
+- Proteins may only work when they bind to another protein.  
+- Example: Enzyme complexes form when multiple proteins come together.  
+
+#### Importance  
+- Prevents wasting energy by keeping proteins OFF when not needed.  
+- Ensures proteins are active **only at the right time**.  
+- Critical for processes like:  
+  - Enzyme activity regulation  
+  - Cell signaling  
+  - Preventing diseases such as **cancer** (where proteins can get stuck ON).  
