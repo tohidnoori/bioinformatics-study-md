@@ -14,7 +14,7 @@ Proteins have **four levels of structure**:
    - The order of amino acids determines the protein’s properties and function.  
 
 2. **Secondary structure**  
-   - Local folding patterns in the chain:  
+   - Local folding patterns in the chain**[amino acids](./Proteins.md#what-is-secondary-structure)**:  
      - **Alpha-helix (α-helix)**  
      - **Beta-pleated sheet (β-sheet)**  
 
@@ -46,3 +46,34 @@ Within this chain, there is a repeating and consistent sequence of atoms called 
 - The amino group of one amino acid reacts with the carboxyl group of another.  
 - Water (H₂O) is released, and a covalent **peptide bond** is created.
 
+---
+
+## Alpha Helix (α-helix) and Beta Sheet (β-sheet)
+
+#### What is Secondary Structure?  
+After amino acids join into a polypeptide chain, the **backbone** can fold into regular patterns, stabilized by **hydrogen bonds** between backbone atoms.  
+
+The two most common secondary structures are:  
+- **Alpha helix (α-helix)**  
+- **Beta sheet (β-sheet)**  
+
+#### Alpha Helix (α-helix)  
+- Shape: **Right-handed spiral** of the polypeptide backbone.  
+- Stabilization: **Hydrogen bonds** between  
+  - the carbonyl oxygen (C=O) of one amino acid  
+  - and the amide hydrogen (N–H) of an amino acid **4 residues away**.  
+- R groups (side chains) project outward from the helix.  
+
+
+#### Beta Sheet (β-sheet)  
+- Shape: **Extended, sheet-like arrangement** of strands.  
+- Stabilization: Hydrogen bonds between backbone atoms of **neighboring strands**.  
+- Two types:  
+  - **Parallel**: strands run in the same direction.  
+  - **Antiparallel**: strands run in opposite directions (more stable).  
+- R groups alternate above and below the sheet.  
+
+#### Summary  
+- **α-helix** = spiral stabilized by H-bonds every 4 residues.  
+- **β-sheet** = sheet stabilized by H-bonds between strands.  
+- Both are crucial for protein folding and stability.  
