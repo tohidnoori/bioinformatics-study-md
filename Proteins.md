@@ -13,10 +13,9 @@ Proteins have **four levels of structure**:
    - The linear sequence of amino acids linked by ```peptide bonds```.  
    - The order of amino acids determines the protein’s properties and function.  
 
-2. **Secondary structure**  
-   - Local folding patterns in the chain**[amino acids](./Proteins.md#what-is-secondary-structure)**:  
-     - **Alpha-helix (α-helix)**  
-     - **Beta-pleated sheet (β-sheet)**  
+2. **[Secondary structure](./Proteins.md#what-is-secondary-structure)**  
+   - **Alpha-helix (α-helix)**  
+   - **Beta-pleated sheet (β-sheet)**  
 
 3. **Tertiary structure**  
    - The full three-dimensional shape of a single polypeptide chain.  
@@ -48,9 +47,7 @@ Within this chain, there is a repeating and consistent sequence of atoms called 
 
 ---
 
-## Alpha Helix (α-helix) and Beta Sheet (β-sheet)
-
-#### What is Secondary Structure?  
+## What is Secondary Structure?
 After amino acids join into a polypeptide chain, the **backbone** can fold into regular patterns, stabilized by **hydrogen bonds** between backbone atoms.  
 
 The two most common secondary structures are:  
