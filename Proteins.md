@@ -1,7 +1,7 @@
 # Proteins
 
 ## What is a Protein?  
-Proteins are **large, complex organic molecules** made of smaller building blocks called **amino acids**.  
+Proteins are **large, complex organic molecules** made of smaller building blocks called  **[amino acids](./amino_acids.md)**.  
 They are present in all living cells and are essential for **structure, function, and regulation of biological processes**.  
 
 ---
