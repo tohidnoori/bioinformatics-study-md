@@ -34,6 +34,55 @@ Each nucleotide has three parts:
 </p>
 <p align="start">
       <img src="/img/Nucleotide1.jpg" alt="Image 1" width="45%"/>
-
 </p>
 
+---
+
+## 3′ and 5′ Ends in DNA 🧭
+
+### Basic Idea  
+Each strand of DNA has a **direction** — it runs from one end to the other.  
+These ends are called the **5′ end** and the **3′ end**, based on the numbering of **carbon atoms** in the sugar (deoxyribose) of the DNA backbone.
+
+### The Numbering of Carbons in Deoxyribose  
+The sugar in DNA, **deoxyribose**, has five carbon atoms, numbered like this:
+
+- **1′ carbon** → attached to the nitrogenous base (A, T, G, or C).  
+- **5′ carbon** → attached to the **phosphate group**.  
+- **3′ carbon** → has a **hydroxyl group (–OH)** that connects to the next nucleotide.
+
+### DNA Strand Direction
+
+Each DNA strand has a **directionality**:
+
+- The **5′ end** → has a **phosphate group** attached to the 5′ carbon.  
+- The **3′ end** → has a **hydroxyl group (–OH)** on the 3′ carbon.  
+
+DNA is always written and read in the **5′ → 3′ direction**.
+
+
+This arrangement is called **antiparallel**.  
+It’s essential for base-pairing and DNA replication.
+
+###  Why It Matters
+
+1. **DNA Replication**  
+   - DNA polymerase (the enzyme that builds DNA) can **only add new nucleotides to the 3′ end**.
+   - So replication always occurs **5′ → 3′**.
+
+2. **Transcription**  
+   - RNA is synthesized **from the 3′ → 5′ DNA template**, making the RNA strand **5′ → 3′**.
+
+3. **Directionality = Functionality**  
+   - Enzymes recognize strands by their 3′ and 5′ ends.
+   - Mistakes in direction = no replication or incorrect transcription.
+
+
+###  Summary Table  
+
+| Feature | 5′ End | 3′ End |
+|----------|---------|---------|
+| Carbon number | 5th carbon in sugar | 3rd carbon in sugar |
+| Functional group | Phosphate (–PO₄) | Hydroxyl (–OH) |
+| Direction of synthesis | Start point | End point (new nucleotides added here) |
+| DNA strand orientation | 5′ → 3′ | Complementary strand runs 3′ → 5′ |
