@@ -4,7 +4,6 @@
 The **superhelix** (or **supercoiling**) structure refers to the **further twisting and coiling** of the DNA double helix so it can **fit inside the cell nucleus**.  
 Even though the DNA molecule is extremely long, this supercoiling allows it to be packed **compactly** while still remaining **functional**.
 
----
 
 ## Levels of DNA Packing (from simplest to most complex)
 
@@ -42,7 +41,6 @@ Even though the DNA molecule is extremely long, this supercoiling allows it to b
   - Can **cut and rejoin DNA strands** to relieve or introduce supercoils.  
   - Maintain proper DNA tension during replication and transcription.
 
----
 
 ## Summary  
 
@@ -58,5 +56,8 @@ Even though the DNA molecule is extremely long, this supercoiling allows it to b
 ---
 
 ## Visual Summary
+<p align="start">
+  <img src="/img/superhelix.jpg" alt="Image 1" style="width:80%; height:500px; object-fit:cover;">
+</p>
 
 ---
