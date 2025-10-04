@@ -36,8 +36,9 @@ Each nucleotide has three parts:
       <img src="/img/Nucleotide1.jpg" alt="Image 1" width="45%"/>
 </p>
 
+### **[The Superhelix Structure of Chromosomes](./supercoiling_dna.md)**
 Have you ever wondered how nearly **two meters of DNA** can fit inside the tiny nucleus of a single human cell — and still stay organized, readable, and functional?
-The answer lies in one of biology’s most fascinating engineering feats: **[the Superhelix Structure of Chromosomes](./supercoiling_dna.md)**.
+The answer lies in one of biology’s most fascinating engineering feats: the Superhelix Structure of Chromosomes.
 
 ---
 
