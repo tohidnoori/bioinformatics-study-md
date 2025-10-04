@@ -77,6 +77,9 @@ It’s essential for base-pairing and DNA replication.
    - Enzymes recognize strands by their 3′ and 5′ ends.
    - Mistakes in direction = no replication or incorrect transcription.
 
+<p align="start">
+      <img src="/img/3prime5prime.jpg" alt="Image 1" width="60%"/>
+</p>
 
 ###  Summary Table  
 
