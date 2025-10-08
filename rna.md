@@ -1,7 +1,7 @@
 # RNA
 
 **RNA (Ribonucleic Acid)** is a **single-stranded nucleic acid** made from **nucleotides** — just like DNA.  
-It plays a **central role in gene expression**, acting as the **bridge between DNA and proteins**.
+It plays a **central role in gene expression**, acting as the **bridge between DNA and [proteins](./proteins.md)**.
 
 You can think of RNA as the **active copy** or **messenger** of genetic information that helps the cell build proteins and regulate genes.
 
@@ -40,7 +40,7 @@ There are **three main types** of RNA directly involved in protein synthesis and
 ### 1. Messenger RNA (mRNA)
 - **Function:** Carries genetic instructions from **DNA** in the nucleus to **ribosomes** in the cytoplasm.  
 - **Produced by:** **[Transcription](./transcription.md)**.  
-- **Structure:** Linear; contains codons (triplets of bases) that specify amino acids.  
+- **Structure:** Linear; contains codons (triplets of bases) that specify **[amino acids](./amino_acids.md)**.  
 - **Example:** If the DNA has a sequence `TAC GAA CTT`, the mRNA will be `AUG CUU GAA`.  
   This mRNA is then **translated into a protein**.
 
