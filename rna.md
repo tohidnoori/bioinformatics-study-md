@@ -1,7 +1,7 @@
 # RNA
 
 **RNA (Ribonucleic Acid)** is a **single-stranded nucleic acid** made from **nucleotides** — just like DNA.  
-It plays a **central role in gene expression**, acting as the **bridge between DNA and [proteins](./proteins.md)**.
+It plays a **central role in gene expression**, acting as the **bridge between DNA and [proteins](./Proteins.md)**.
 
 You can think of RNA as the **active copy** or **messenger** of genetic information that helps the cell build proteins and regulate genes.
 
