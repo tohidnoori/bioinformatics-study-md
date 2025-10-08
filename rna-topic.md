@@ -63,6 +63,9 @@ Motifs can appear in **RNA sequences** (base patterns) or in **RNA structures** 
 **Splicing** is the process by which **non-coding regions (introns)** are **removed** from **pre-mRNA**, and the **coding regions (exons)** are **joined together** to form a **mature mRNA molecule**.
 
 It occurs in the **nucleus** of eukaryotic cells **after transcription** but **before translation**.
+<p align="start">
+      <img src="/img/exon-introns.jpg" alt="Image 1" style="width:70%; height:400px; object-fit:cover;">
+</p>
 
 ### Steps of Splicing
 
@@ -89,8 +92,8 @@ It occurs in the **nucleus** of eukaryotic cells **after transcription** but **b
 
 
 <p align="start">
-      <img src="/img/splicing1.jpg" alt="Image 1" style="width:60%; height:450px; object-fit:cover;">
-    <img src="/img/splicing2.jpg" alt="Image 1" style="width:35%; height:450px; object-fit:cover;">
+      <img src="/img/splicing1.jpg" alt="Image 1" style="width:70%; height:400px; object-fit:cover;">
+    <img src="/img/splicing2.jpg" alt="Image 1" style="width:25%; height:400px; object-fit:cover;">
 </p>
 
 ### Importance
