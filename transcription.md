@@ -1,8 +1,8 @@
 # RNA Polymerization (Transcription)
 
-**RNA polymerization**, also known as **transcription**, is the **biological process** by which the **[genetic information](./gene.md) in DNA** is **copied into [RNA](./rna.md)** .  
+**RNA polymerization**, also known as **transcription**, is the **biological process** by which the **[genetic information](./gene.md)** in DNA is copied into **[RNA](./rna.md)** .  
 
-This process is essential for **[gene](./gene.md)  expression**, because RNA serves as the **intermediate molecule** that carries genetic instructions from DNA to the machinery that builds proteins.
+This process is essential for **[gene](./gene.md)  expression**, because RNA serves as the **intermediate molecule** that carries genetic instructions from **[DNA](./dna.md)** to the machinery that builds proteins.
 
 ### Purpose of RNA Polymerization
 - Converts **genetic information** in DNA into **RNA** (especially messenger RNA, or mRNA).
@@ -50,8 +50,6 @@ During elongation, the **RNA strand is synthesized**.
 - Energy from nucleotide triphosphates  
 - Transcription bubble (open region of DNA)
 
-
-
 ### 3. Termination
 This is the **final phase** of transcription.
 
@@ -76,14 +74,11 @@ It must be **processed** before it becomes mature mRNA that can be translated in
     <img src="/img/rna-processing-proteins.jpg" alt="Image 1" style="width:40%; height:500px; object-fit:cover;">
 </p>
 
-
 ### Main Modifications:
 1. **[5′ Capping](./rna-topic.md#1-the-5-cap-five-prime-cap)** – A protective cap is added to the beginning of RNA.  
 2. **[Splicing](./rna-topic.md#3-rna-splicing)** – Non-coding introns are removed, and coding exons are joined.  
 3. **3′ Polyadenylation** – A poly-A tail is added for stability and export.  
 4. **[RNA Motifs](./rna-topic.md#2-rna-motifs)** – Specific patterns in RNA that influence structure, stability, and protein binding.  
-
----
 
 ## Direction of Synthesis
 RNA is always synthesized:
@@ -101,7 +96,6 @@ RNA is always synthesized:
 | **tRNA (transfer RNA)** | RNA Polymerase III | Transfers amino acids during translation |
 | **snRNA, miRNA, etc.** | RNA Polymerase II/III | Regulate gene expression and RNA processing |
 
----
 
 ## Importance of RNA Polymerization
 - It is the **first and most regulated step** of gene expression.
@@ -112,24 +106,10 @@ RNA is always synthesized:
 
 ## Summary Flow
 
-**DNA (gene)**  
+**[DNA](./dna.md)** 
 ↓ *(transcription / RNA polymerization)*  
 **Pre-mRNA**  
 ↓ *(processing: 5′ cap, splicing, motifs, poly-A tail)*  
 **Mature mRNA**  
 ↓ *(export to cytoplasm)*  
 **Protein synthesis (translation)**
-
----
-
-## Suggested Next Topics
-To understand the entire process in depth, explore the following related topics:
-
-1. **RNA Polymerase** — The enzyme that drives transcription.  
-2. **5′ Cap** — Modification that protects and stabilizes RNA.  
-3. **Splicing** — Removal of introns to form mature RNA.  
-4. **RNA Motifs** — Sequence and structural elements that affect RNA behavior.  
-
-Each of these topics expands on a different part of how RNA is **created, processed, and prepared** for protein synthesis.
-
----
