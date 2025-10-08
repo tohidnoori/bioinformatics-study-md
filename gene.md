@@ -1,4 +1,4 @@
-# Gene — Detailed Biological Explanation
+# Gene
 
 A **gene** is a specific sequence of **DNA (deoxyribonucleic acid)** that contains the **instructions for making a functional product**, usually a **protein** or sometimes a **functional RNA** (like tRNA, rRNA, or miRNA).
 
