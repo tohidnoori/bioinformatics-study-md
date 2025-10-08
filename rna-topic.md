@@ -19,13 +19,6 @@ This process occurs **soon after transcription begins**.
 - **Aids in RNA transport** from the nucleus to the cytoplasm.
 - **Assists in splicing** and other RNA processing steps.
 
-### Summary
-| Feature | Description |
-|----------|--------------|
-| Added To | 5′ end of pre-mRNA |
-| Chemical Group | 7-methylguanosine |
-| Function | Stability, transport, translation initiation |
-
 ---
 
 ## 2. RNA Motifs
@@ -137,21 +130,3 @@ There are **three main types** of RNA polymerases, each responsible for making d
    - The completed RNA strand is released.
 
 ---
-
-### Summary of RNA Polymerase Function
-| Step | Role of RNA Polymerase |
-|------|------------------------|
-| Initiation | Binds promoter and unwinds DNA |
-| Elongation | Adds RNA nucleotides |
-| Termination | Stops transcription |
-| Product | Pre-mRNA or other RNAs depending on polymerase type |
-
----
-
-## Concept Connection
-Together, these processes ensure that RNA is **accurately made, processed, and ready to be translated into proteins.**
-
-- **RNA polymerase** makes the RNA copy.
-- The **5′ cap** protects and prepares it for export.
-- **Motifs** guide how RNA folds and interacts.
-- **Splicing** finalizes the message by removing unnecessary segments.
