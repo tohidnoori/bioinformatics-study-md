@@ -6,8 +6,6 @@ It plays a **central role in gene expression**, acting as the **bridge between D
 
 You can think of RNA as the **active copy** or **messenger** of genetic information that helps the cell build proteins and regulate genes.
 
----
-
 ## Chemical Structure of RNA
 
 | Feature | RNA | DNA |
@@ -23,8 +21,6 @@ You can think of RNA as the **active copy** or **messenger** of genetic informat
 - **Uracil (U)** replaces **Thymine (T)** in RNA.
 - Because it’s **single-stranded**, RNA can **fold into complex 3D shapes**, giving it many **functional roles**, not just information storage.
 
----
-
 ## RNA Nucleotides
 Each RNA nucleotide has 3 parts:
 1. **Ribose sugar**
@@ -32,15 +28,15 @@ Each RNA nucleotide has 3 parts:
 3. **Nitrogenous base (A, U, G, or C)**
 
 When nucleotides link together by **phosphodiester bonds**, they form the RNA strand.
-
+<p align="start">
+    <img src="/img/chem-rna.jpg" alt="Image 1" style="width:55%; height:450px; object-fit:cover;">
+    <img src="/img/u-a-bonding.jpg" alt="Image 1" style="width:40%; height:450px; object-fit:cover;">
+</p>
 ---
 
 ## Major Types of RNA and Their Functions
 
 There are **three main types** of RNA directly involved in protein synthesis and **several others** that regulate gene expression and RNA processing.
-
----
-
 ### 1. Messenger RNA (mRNA)
 - **Function:** Carries genetic instructions from **DNA** in the nucleus to **ribosomes** in the cytoplasm.  
 - **Produced by:** **Transcription**.  
@@ -48,7 +44,6 @@ There are **three main types** of RNA directly involved in protein synthesis and
 - **Example:** If the DNA has a sequence `TAC GAA CTT`, the mRNA will be `AUG CUU GAA`.  
   This mRNA is then **translated into a protein**.
 
----
 
 ### 2. Transfer RNA (tRNA)
 - **Function:** Brings **amino acids** to the ribosome during **translation**.
@@ -62,14 +57,12 @@ If mRNA codon = **AUG**,
 tRNA anticodon = **UAC**,  
 and it carries the amino acid **methionine**.
 
----
 
 ### 3. Ribosomal RNA (rRNA)
 - **Function:** Forms part of the **ribosome**, the molecular machine that builds proteins.  
 - **Structure:** Combines with proteins to make the **large and small subunits** of a ribosome.  
 - **Role:** Catalyzes the formation of **peptide bonds** between amino acids — so it acts like an **enzyme (ribozyme)**.
 
----
 
 ## Other Important RNAs (Regulatory and Structural)
 
@@ -120,17 +113,3 @@ Many scientists believe that **RNA was the first genetic material** in early lif
 - RNA can **catalyze reactions** (like proteins).
 This idea is called the **RNA World Hypothesis** — suggesting life may have started with self-replicating RNA molecules.
 
----
-
-## Summary Table
-
-| Feature | Description |
-|----------|--------------|
-| Full Name | Ribonucleic Acid |
-| Structure | Single-stranded, made of ribonucleotides |
-| Sugar | Ribose |
-| Bases | A, U, G, C |
-| Functions | Information carrier, enzyme, regulator, structural |
-| Types | mRNA, tRNA, rRNA, plus many regulatory RNAs |
-| Location | Nucleus and cytoplasm |
-| Synthesized by | RNA Polymerase during transcription |
