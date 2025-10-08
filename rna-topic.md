@@ -19,6 +19,11 @@ This process occurs **soon after transcription begins**.
 - **Aids in RNA transport** from the nucleus to the cytoplasm.
 - **Assists in splicing** and other RNA processing steps.
 
+<p align="start">
+      <img src="/img/5primcap.jpg" alt="Image 1" style="width:60%; height:450px; object-fit:cover;">
+    <img src="/img/5primcap2.jpg" alt="Image 1" style="width:35%; height:450px; object-fit:cover;">
+</p>
+
 ---
 
 ## 2. RNA Motifs
@@ -82,10 +87,18 @@ It occurs in the **nucleus** of eukaryotic cells **after transcription** but **b
 - **Constitutive splicing**: All introns are removed the same way.
 - **Alternative splicing**: Different combinations of exons are joined — creating multiple protein versions from a single gene.
 
+
+<p align="start">
+      <img src="/img/splicing1.jpg" alt="Image 1" style="width:60%; height:450px; object-fit:cover;">
+    <img src="/img/splicing2.jpg" alt="Image 1" style="width:35%; height:450px; object-fit:cover;">
+</p>
+
 ### Importance
 - Increases genetic diversity (one gene → many proteins).
 - Ensures correct protein coding.
 - Errors in splicing can lead to diseases (e.g., certain cancers or muscular dystrophies).
+
+
 
 ---
 
