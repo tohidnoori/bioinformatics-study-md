@@ -1,7 +1,7 @@
-# RNA Polymerization (Transcription
+# RNA Polymerization (Transcription)
 
 ## Definition
-**RNA polymerization**, also known as **transcription**, is the **biological process** by which the **genetic information in DNA** is **copied into RNA**.  
+**RNA polymerization**, also known as **transcription**, is the **biological process** by which the **genetic information in DNA** is **copied into [RNA](./rna.md)** .  
 
 This process is essential for **gene expression**, because RNA serves as the **intermediate molecule** that carries genetic instructions from DNA to the machinery that builds proteins.
 
@@ -82,12 +82,9 @@ It must be **processed** before it becomes mature mRNA that can be translated in
 
 ### Main Modifications:
 1. **[5′ Capping](./rna-topic.md#1-the-5-cap-five-prime-cap)** – A protective cap is added to the beginning of RNA.  
-   *(See: “5′ Cap” section.)*
 2. **[Splicing](./rna-topic.md#3-rna-splicing)** – Non-coding introns are removed, and coding exons are joined.  
-   *(See: “RNA Splicing.”)*
 3. **3′ Polyadenylation** – A poly-A tail is added for stability and export.  
 4. **[RNA Motifs](./rna-topic.md#2-rna-motifs)** – Specific patterns in RNA that influence structure, stability, and protein binding.  
-   *(See: “RNA Motifs.”)*
 
 ---
 
