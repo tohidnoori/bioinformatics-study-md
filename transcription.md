@@ -1,29 +1,19 @@
 # RNA Polymerization (Transcription)
 
-## Definition
-**RNA polymerization**, also known as **transcription**, is the **biological process** by which the **genetic information in DNA** is **copied into [RNA](./rna.md)** .  
+**RNA polymerization**, also known as **transcription**, is the **biological process** by which the **[genetic information](./gene.md) in DNA** is **copied into [RNA](./rna.md)** .  
 
-This process is essential for **gene expression**, because RNA serves as the **intermediate molecule** that carries genetic instructions from DNA to the machinery that builds proteins.
+This process is essential for **[gene](./gene.md)  expression**, because RNA serves as the **intermediate molecule** that carries genetic instructions from DNA to the machinery that builds proteins.
 
-In short:
-> DNA → RNA → Protein
-
----
-
-## Purpose of RNA Polymerization
+### Purpose of RNA Polymerization
 - Converts **genetic information** in DNA into **RNA** (especially messenger RNA, or mRNA).
 - Allows genes to be **expressed** without risking damage to the DNA itself.
 - Produces other RNAs too — like **rRNA** and **tRNA**, which are essential for protein synthesis.
 
----
-
-## Site of Occurrence
+### Site of Occurrence
 - **In eukaryotic cells:** Occurs in the **nucleus**.
 - **In prokaryotic cells:** Occurs in the **cytoplasm**, since there is no nucleus.
 
----
-
-## Main Enzyme: RNA Polymerase
+### Main Enzyme: RNA Polymerase
 The key enzyme that performs RNA polymerization is **[RNA polymerase](./rna-topic.md#4-rna-polymerase)**.
 It binds to DNA, separates the strands, and builds an RNA copy based on the DNA template strand.
 
