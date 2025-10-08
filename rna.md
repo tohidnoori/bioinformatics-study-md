@@ -39,7 +39,7 @@ When nucleotides link together by **phosphodiester bonds**, they form the RNA st
 There are **three main types** of RNA directly involved in protein synthesis and **several others** that regulate gene expression and RNA processing.
 ### 1. Messenger RNA (mRNA)
 - **Function:** Carries genetic instructions from **DNA** in the nucleus to **ribosomes** in the cytoplasm.  
-- **Produced by:** **Transcription**.  
+- **Produced by:** **[Transcription](./transcription.md)**.  
 - **Structure:** Linear; contains codons (triplets of bases) that specify amino acids.  
 - **Example:** If the DNA has a sequence `TAC GAA CTT`, the mRNA will be `AUG CUU GAA`.  
   This mRNA is then **translated into a protein**.
@@ -76,7 +76,7 @@ and it carries the amino acid **methionine**.
 
 ---
 
-## RNA Synthesis — Transcription Recap
+## RNA Synthesis — **[Transcription Recap](./transcription.md)** 
 RNA is made by **RNA polymerase** during **transcription**:
 1. RNA polymerase binds to DNA promoter.
 2. Unwinds the DNA helix.
