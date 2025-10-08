@@ -1,6 +1,5 @@
 # RNA
 
-## Overview
 **RNA (Ribonucleic Acid)** is a **single-stranded nucleic acid** made from **nucleotides** — just like DNA.  
 It plays a **central role in gene expression**, acting as the **bridge between DNA and proteins**.
 
