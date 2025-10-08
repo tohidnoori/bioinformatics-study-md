@@ -1,6 +1,4 @@
-# RNA Polymerization (Transcription) — Overview and Stages
-
----
+# RNA Polymerization (Transcription
 
 ## Definition
 **RNA polymerization**, also known as **transcription**, is the **biological process** by which the **genetic information in DNA** is **copied into RNA**.  
@@ -26,10 +24,8 @@ In short:
 ---
 
 ## Main Enzyme: RNA Polymerase
-The key enzyme that performs RNA polymerization is **RNA polymerase**.  
+The key enzyme that performs RNA polymerization is **[RNA polymerase](./rna-topic.md#4-rna-polymerase)**.
 It binds to DNA, separates the strands, and builds an RNA copy based on the DNA template strand.
-
-*(You can refer readers to a deeper explanation of RNA polymerase for its structure, types, and function.)*
 
 ---
 
@@ -49,7 +45,6 @@ This is the **starting phase** of transcription.
 - Transcription factors  
 - Role of RNA polymerase II  
 
----
 
 ### 2. Elongation
 During elongation, the **RNA strand is synthesized**.
@@ -65,7 +60,7 @@ During elongation, the **RNA strand is synthesized**.
 - Energy from nucleotide triphosphates  
 - Transcription bubble (open region of DNA)
 
----
+
 
 ### 3. Termination
 This is the **final phase** of transcription.
@@ -86,12 +81,12 @@ In **eukaryotic cells**, the initial RNA transcript made by RNA polymerase II is
 It must be **processed** before it becomes mature mRNA that can be translated into protein.
 
 ### Main Modifications:
-1. **5′ Capping** – A protective cap is added to the beginning of RNA.  
+1. **[5′ Capping](./rna-topic.md#1-the-5-cap-five-prime-cap)** – A protective cap is added to the beginning of RNA.  
    *(See: “5′ Cap” section.)*
-2. **Splicing** – Non-coding introns are removed, and coding exons are joined.  
+2. **[Splicing](./rna-topic.md#3-rna-splicing)** – Non-coding introns are removed, and coding exons are joined.  
    *(See: “RNA Splicing.”)*
 3. **3′ Polyadenylation** – A poly-A tail is added for stability and export.  
-4. **RNA Motifs** – Specific patterns in RNA that influence structure, stability, and protein binding.  
+4. **[RNA Motifs](./rna-topic.md#2-rna-motifs)** – Specific patterns in RNA that influence structure, stability, and protein binding.  
    *(See: “RNA Motifs.”)*
 
 ---
