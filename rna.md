@@ -32,6 +32,7 @@ When nucleotides link together by **phosphodiester bonds**, they form the RNA st
     <img src="/img/chem-rna.jpg" alt="Image 1" style="width:55%; height:450px; object-fit:cover;">
     <img src="/img/u-a-bonding.jpg" alt="Image 1" style="width:40%; height:450px; object-fit:cover;">
 </p>
+
 ---
 
 ## Major Types of RNA and Their Functions
