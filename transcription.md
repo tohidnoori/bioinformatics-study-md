@@ -13,8 +13,8 @@ This process is essential for **[gene](./gene.md)  expression**, because RNA ser
 - **In eukaryotic cells:** Occurs in the **nucleus**.
 - **In prokaryotic cells:** Occurs in the **cytoplasm**, since there is no nucleus.
 
-### Main Enzyme: RNA Polymerase
-The key enzyme that performs RNA polymerization is **[RNA polymerase](./rna-topic.md#4-rna-polymerase)**.
+### Main Enzyme: **[RNA Polymerase](./rna-topic.md#4-rna-polymerase)**
+The key enzyme that performs RNA polymerization is **RNA polymerase**.
 It binds to DNA, separates the strands, and builds an RNA copy based on the DNA template strand.
 
 ---
@@ -69,6 +69,13 @@ This is the **final phase** of transcription.
 ## Post-Transcriptional Events (Eukaryotes Only)
 In **eukaryotic cells**, the initial RNA transcript made by RNA polymerase II is called **pre-mRNA**.  
 It must be **processed** before it becomes mature mRNA that can be translated into protein.
+
+#### Image summary
+<p align="start">
+      <img src="/img/rna-trans.jpg" alt="Image 1" style="width:55%; height:500px; object-fit:cover;">
+    <img src="/img/rna-processing-proteins.jpg" alt="Image 1" style="width:40%; height:500px; object-fit:cover;">
+</p>
+
 
 ### Main Modifications:
 1. **[5′ Capping](./rna-topic.md#1-the-5-cap-five-prime-cap)** – A protective cap is added to the beginning of RNA.  
