@@ -5,7 +5,7 @@ This is the **second major step of gene expression**, following **transcription*
 
 Translation takes place in the **cytoplasm**, specifically on the **ribosomes**, which are complex molecular machines made of **rRNA (ribosomal RNA)** and **proteins**.
 
-## Central Dogma of Molecular Biology
+### Central Dogma of Molecular Biology
 
 
 - **Transcription:** DNA is transcribed into mRNA inside the nucleus (in eukaryotes).  
@@ -13,7 +13,7 @@ Translation takes place in the **cytoplasm**, specifically on the **ribosomes**,
 
 ## The Genetic Code
 
-The **genetic code** is the set of rules by which information encoded in mRNA is translated into proteins.
+The **[genetic code](./gene.md)** is the set of rules by which information encoded in mRNA is translated into proteins.
 
 - The mRNA sequence is read in groups of **three nucleotides** called **codons**.  
 - Each **codon** corresponds to **one amino acid** or a **stop signal**.  
@@ -23,9 +23,7 @@ The **genetic code** is the set of rules by which information encoded in mRNA is
   - **Universal:** Nearly all organisms use the same code.
   - **Degenerate:** Most amino acids have more than one codon.
 
----
-
-## The Standard Codon Table
+### The Standard Codon Table
 
 | **Amino Acid** | **Codon 1** | **Codon 2** | **Codon 3** | **Codon 4** | **Codon 5** | **Codon 6** |
 |----------------|--------------|--------------|--------------|--------------|-------------|--------------|
