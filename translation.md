@@ -78,8 +78,6 @@ The **[genetic code](./gene.md)** is the set of rules by which information encod
 - Enzymes that attach the correct amino acid to its corresponding tRNA.
 - Ensures that each codon in the mRNA brings in the correct amino acid.
 
----
-
 ## Stages of Translation
 
 Translation occurs in **three main stages**:
