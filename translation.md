@@ -127,21 +127,10 @@ Once translation finishes, the new **polypeptide chain** undergoes several proce
 - Some proteins remain in the **cytoplasm**.
 - Others are sent to the **endoplasmic reticulum (ER)**, **Golgi apparatus**, **lysosomes**, or exported out of the cell.
 
----
 
-## Energy Requirement
-
+### Energy Requirement
 Translation is **energy-intensive** and requires **GTP** (guanosine triphosphate) molecules during:
 - **tRNA loading**
 - **Binding of tRNA to ribosome**
 - **Translocation**
-
-## Key Takeaways
-
-- Translation converts **mRNA code → amino acid sequence → functional protein**.  
-- **Start codon (AUG)** signals the beginning; **stop codons (UAA, UAG, UGA)** signal the end.  
-- **Ribosomes**, **tRNAs**, and **enzymes** work together in a precisely coordinated mechanism.  
-- Each step is highly regulated to ensure protein accuracy and efficiency.  
-- Errors in translation can cause **nonfunctional** or **toxic proteins**, leading to diseases.
-
 ---
