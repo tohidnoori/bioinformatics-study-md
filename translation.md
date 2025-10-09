@@ -1,13 +1,11 @@
 # Translation
 
-**Translation** is the biological process in which the sequence of **nucleotides** in a messenger RNA (**mRNA**) molecule is decoded to produce a specific sequence of **amino acids** — forming a **protein**.  
+**Translation** is the biological process in which the sequence of **nucleotides** in a messenger RNA (**mRNA**) molecule is decoded to produce a specific sequence of **[amino acids](./amino_acids.md)** — forming a **[protein](./Proteins.md)**.  
 This is the **second major step of gene expression**, following **transcription**, which produces the mRNA.
 
 Translation takes place in the **cytoplasm**, specifically on the **ribosomes**, which are complex molecular machines made of **rRNA (ribosomal RNA)** and **proteins**.
 
-### Central Dogma of Molecular Biology
-
-
+#### Central Dogma of Molecular Biology
 - **Transcription:** DNA is transcribed into mRNA inside the nucleus (in eukaryotes).  
 - **Translation:** mRNA is read by ribosomes in the cytoplasm to synthesize proteins.
 
