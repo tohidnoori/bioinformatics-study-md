@@ -44,7 +44,10 @@ In the “gene regulatory landscape,” each stable pattern of gene expression r
 ### 3.2 Bistable and Tristable Switches
 - **Bistable switch:** Two transcription factors (A and B) inhibit each other → the system stabilizes in one of two states (A-high/B-low or B-high/A-low).  
 - **Tristable switch:** With additional self-activation or nonlinear feedback, a third intermediate state (A ≈ B) appears, representing a **progenitor state** that can transition to either lineage.
-
+<p align="start">
+      <img src="/img/Bistable Switch.png" alt="Image 1" style="width:45%; height:400px; object-fit:cover;">
+      <img src="/img/Tristable Switch.png" alt="Image 1" style="width:45%; height:400px; object-fit:cover;">
+</p>
 ### 3.3 Lineage Bifurcation
 A **lineage bifurcation** is the developmental branch point where a progenitor cell diverges into two distinct lineages.  
 
@@ -62,9 +65,9 @@ A **lineage bifurcation** is the developmental branch point where a progenitor c
 ## 5. Example: Hematopoietic Differentiation
 
 Hematopoietic stem cells (HSCs) in bone marrow differentiate into all blood cells through branching lineages:
-
-
-HSC IMAGE
+<p align="start">
+      <img src="/img/hsc.png" alt="Image 1" style="width:80%; height:500px; object-fit:cover;">
+</p>
 
 Each branch is regulated by lineage-specific transcription factors:
 - *GATA1* promotes erythroid fate.  
