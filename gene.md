@@ -7,7 +7,6 @@ Genes are the **basic units of heredity**, meaning they are passed from parents 
 In simple terms:
 > A **gene** is a "code" within DNA that tells the cell how to build and regulate proteins.
 
----
 
 ## Location and Structure of Genes
 
@@ -16,7 +15,6 @@ In simple terms:
 - In **prokaryotes** (bacteria): genes are located in a **single circular DNA molecule** in the cytoplasm.
 - Some genes also exist in **organelles** like **mitochondria** and **chloroplasts** (called extranuclear or organellar genes).
 
----
 
 ## Basic Structure of a Gene
 
@@ -30,8 +28,6 @@ A gene is not just a continuous piece of DNA—it has **specific regions** that 
 | **Terminator** | Sequence signaling the end of transcription. |
 | **Regulatory Sequences** | Regions (enhancers, silencers) that control how strongly or when a gene is expressed. |
 
----
-
 ## Composition of a Gene
 
 Genes are made of **nucleotides**, which have:
@@ -40,8 +36,6 @@ Genes are made of **nucleotides**, which have:
 - **Nitrogen base** (A, T, G, C)
 
 The **order of these bases** forms the **genetic code**.
-
----
 
 ## How Genes Work — The Central Dogma of Molecular Biology
 
@@ -59,8 +53,6 @@ This process can be summarized as:
 
 **DNA → RNA → Protein**
 
----
-
 ## The Genetic Code
 
 The **genetic code** is the set of rules that defines how the sequence of nucleotides in mRNA is translated into amino acids.
@@ -72,8 +64,6 @@ The **genetic code** is the set of rules that defines how the sequence of nucleo
   - Amino acids: `Methionine – Leucine – Glutamic acid`
 - The code is **universal** (almost all living organisms use the same code).
 
----
-
 ## Types of Genes
 
 | Type | Function |
@@ -84,7 +74,6 @@ The **genetic code** is the set of rules that defines how the sequence of nucleo
 | **miRNA / siRNA genes** | Encode small RNAs that regulate gene expression. |
 | **Pseudogenes** | Non-functional copies of genes that have lost their ability to code for proteins. |
 
----
 
 ## Regulatory Elements and Gene Expression
 
@@ -100,8 +89,6 @@ Gene expression is tightly controlled so that genes are turned **on** or **off**
 Example:  
 In bacteria, a group of genes that work together can be organized into an **operon** (like the **lac operon**).
 
----
-
 ## Alleles
 
 Each gene can have different **versions**, called **alleles**, that produce variations in a trait.
@@ -109,7 +96,6 @@ Each gene can have different **versions**, called **alleles**, that produce vari
 - Example: The **eye color gene** might have a “brown” allele and a “blue” allele.
 - Humans inherit **two alleles** for each gene (one from each parent).
 
----
 
 ## Genome, Genes, and Chromosomes
 
@@ -124,8 +110,6 @@ Humans have:
 - **~20,000 to 25,000 genes**
 - **46 chromosomes** (23 pairs)
 - **3 billion base pairs** of DNA
-
----
 
 ## Mutations and Gene Variations
 
@@ -143,8 +127,6 @@ Types of mutations:
 
 Some mutations cause **genetic diseases** (e.g., sickle cell anemia, cystic fibrosis).
 
----
-
 ## Epigenetic Control of Genes
 
 Not all gene regulation is due to DNA sequence.  
@@ -155,26 +137,3 @@ Examples:
 - **Histone modification** (controls DNA packing and access)
 
 These changes can be influenced by **environment, diet, and stress**, and may even be **inherited**.
-
----
-
-## Summary Table
-
-| Feature | Description |
-|----------|-------------|
-| Definition | A segment of DNA coding for a functional product |
-| Function | Provides instructions for making proteins or RNAs |
-| Basic Regions | Promoter, exons, introns, terminator |
-| Product | Protein or RNA |
-| Found In | Chromosomes of the nucleus (or cytoplasm in prokaryotes) |
-| Variations | Alleles |
-| Regulated By | Promoters, enhancers, silencers, and epigenetic factors |
-| Number in Humans | About 20,000–25,000 genes |
-
----
-
-## Summary
-A **gene** is the fundamental unit of heredity and biological function.  
-It holds the instructions that allow cells to create proteins, which in turn determine the structure, metabolism, and behavior of living organisms.  
-Genes, along with regulatory elements and environmental influences, shape everything from a cell’s activity to the traits of an organism.
-
