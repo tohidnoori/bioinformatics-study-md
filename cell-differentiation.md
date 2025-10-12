@@ -47,15 +47,7 @@ In the “gene regulatory landscape,” each stable pattern of gene expression r
 
 ### 3.3 Lineage Bifurcation
 A **lineage bifurcation** is the developmental branch point where a progenitor cell diverges into two distinct lineages.  
-For example:
 
-Progenitor cell
-↓
-┌───────────┐
-│ │
-Myeloid Lymphoid
-
-The decision is driven by transcription factor competition and extracellular signaling.
 
 ## 4. Stem Cells and Differentiation Potential
 
@@ -72,18 +64,7 @@ The decision is driven by transcription factor competition and extracellular sig
 Hematopoietic stem cells (HSCs) in bone marrow differentiate into all blood cells through branching lineages:
 
 
-HSC
-├─ Common Myeloid Progenitor (CMP)
-│ ├─ Megakaryocyte–Erythroid Progenitor (MEP)
-│ │ ├─ Erythroid cells → Red blood cells
-│ │ └─ Megakaryocytes → Platelets
-│ └─ Granulocyte–Monocyte Progenitor (GMP)
-│ ├─ Granulocytes → Neutrophils, Eosinophils, Basophils
-│ └─ Monocytes → Macrophages, Dendritic cells
-└─ Common Lymphoid Progenitor (CLP)
-├─ T cells
-├─ B cells
-└─ NK cells
+HSC IMAGE
 
 Each branch is regulated by lineage-specific transcription factors:
 - *GATA1* promotes erythroid fate.  
