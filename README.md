@@ -9,34 +9,25 @@ This section covers the key molecular and cellular concepts — DNA, RNA, protei
 
 ## Topics Covered
 
-1. [**DNA**](./DNA.md)  
+. [**DNA**](./DNA.md)  
    Structure, composition, and the role of DNA as the genetic blueprint of life.
 
-2. [**Supercoiling of DNA**](./supercoiling_dna.md)  
-   Understanding DNA topology and why supercoiling matters in replication and transcription.
-
-3. [**Genes**](./gene.md)  
+. [**Genes**](./gene.md)  
    What genes are, how they’re organized, and their relationship to traits and functions.
 
-4. [**RNA**](./rna.md)  
+. [**RNA**](./rna.md)  
    Types of RNA and their crucial roles in gene expression.
 
-5. [**RNA-Related Topics**](./rna-topic.md)  
-   Extended discussions on RNA processing, splicing, and regulatory RNAs.
-
-6. [**Transcription**](./transcription.md)  
+. [**Transcription**](./transcription.md)  
    How genetic information in DNA is transcribed into RNA.
 
-7. [**Translation**](./translation.md)  
+. [**Translation**](./translation.md)  
    The process of decoding RNA to synthesize proteins.
 
-8. [**Proteins**](./Proteins.md)  
+. [**Proteins**](./Proteins.md)  
    Structure, function, and importance of proteins in cellular life.
 
-9. [**Amino Acids**](./amino_acids.md)  
-   The building blocks of proteins — chemical properties and classifications.
-
-10. [**Cell Differentiation**](./cell-differentiation.md)  
+. [**Cell Differentiation**](./cell-differentiation.md)  
     How cells develop specialized functions despite having the same DNA.
 
 ---
