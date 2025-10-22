@@ -95,30 +95,3 @@ Metabolism includes **all chemical reactions** in a cell or organism.
 | **Apoptotic signaling pathway** | GO:0097190 | Regulates programmed cell death. |
 | **Autophagy** | GO:0006914 | Cellular “self-eating” for recycling components. |
 | **NF-κB signaling** | GO:0043122 | Regulates immune and inflammatory responses. |
-
----
-
-## 🧾 8. Summary Table
-
-| **Category** | **Example Processes** |
-|---------------|-----------------------|
-| **Core Cellular** | Cell division, DNA replication, transcription |
-| **Metabolic** | Carbohydrate metabolism, respiration |
-| **Developmental** | Embryogenesis, organ morphogenesis |
-| **Regulatory** | Immune response, stress response, homeostasis |
-| **Specialized** | Pigmentation, muscle contraction, circadian rhythm |
-| **Disease-related** | Apoptosis, autophagy, MAPK signaling |
-
----
-
-### 📘 Notes
-- Each biological process is defined and maintained by the **Gene Ontology Consortium (GOC)**.  
-- GO terms provide a **standardized vocabulary** to describe what genes *do*, *why they do it*, and *where they act*.  
-- You can explore these terms interactively using:
-  - 🧭 [AmiGO Browser](http://amigo.geneontology.org/)
-  - 🔬 [QuickGO (EBI)](https://www.ebi.ac.uk/QuickGO/)
-
----
-
-**Author:** *Generated with the help of GPT-5*  
-**License:** [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)
