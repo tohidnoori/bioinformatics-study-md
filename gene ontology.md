@@ -9,8 +9,6 @@ GO was developed to solve a key problem in biology:
 
 The **Gene Ontology Consortium (GOC)** created GO to unify this language — allowing consistent gene annotation and easy cross-species analysis.
 
----
-
 ## Why Gene Ontology is Important
 
 GO provides a **controlled vocabulary** and **hierarchical structure** for describing:
@@ -24,21 +22,19 @@ This makes it possible to:
 - Interpret large biological datasets (like RNA-seq or microarrays)
 - Identify common pathways among sets of genes
 
----
+
 
 ##  The Three Ontologies of GO
 
 Gene Ontology is divided into **three main categories**, called **ontologies**:
 
 | **Ontology** | **Abbreviation** | **Describes** | **Example** |
-|---------------|------------------|----------------|--------------|
+|||-|--|
 | **Biological Process** | BP | A series of molecular events achieving a biological goal | Cell division, apoptosis, photosynthesis |
 | **Molecular Function** | MF | The basic activity or role of a single gene product | ATP binding, enzyme activity |
 | **Cellular Component** | CC | The place in the cell where the gene product acts | Nucleus, mitochondrion, plasma membrane |
 
 Each gene can be annotated with multiple GO terms from all three ontologies.
-
----
 
 ## 1. Biological Process (BP)
 
@@ -49,7 +45,7 @@ A **Biological Process** represents a **series of molecular events** or **steps*
 
 ### Examples:
 | **GO Term** | **Name** | **Description** |
-|--------------|-----------|-----------------|
+|--|--|--|
 | GO:0007049 | Cell cycle | Sequence of events leading to cell division. |
 | GO:0007165 | Signal transduction | Transmission of molecular signals in a cell. |
 | GO:0006915 | Apoptosis | Programmed cell death for growth or defense. |
@@ -59,9 +55,7 @@ A **Biological Process** represents a **series of molecular events** or **steps*
 ### Key Idea:
 Each biological process consists of many molecular functions working together to achieve a biological outcome.
 
----
-
-## 2. Molecular Function (MF)  ⚛️
+## 2. Molecular Function (MF)  
 
 ### Definition:
 A **Molecular Function** describes the **elementary activity** or **biochemical task** performed by a single gene product.
@@ -70,7 +64,7 @@ A **Molecular Function** describes the **elementary activity** or **biochemical 
 
 ### Examples:
 | **GO Term** | **Name** | **Description** |
-|--------------|-----------|-----------------|
+|--|--|--|
 | GO:0003677 | DNA binding | Protein interacts selectively with DNA. |
 | GO:0005524 | ATP binding | Protein binds ATP (energy molecule). |
 | GO:0004672 | Protein kinase activity | Transfers phosphate groups to other proteins. |
@@ -80,7 +74,7 @@ A **Molecular Function** describes the **elementary activity** or **biochemical 
 ### Key Idea:
 Molecular functions are the **atomic building blocks** of biological processes.
 
----
+
 
 ## 3. Cellular Component (CC)
 
@@ -91,14 +85,13 @@ A **Cellular Component** is the **place or structure** where a gene product is a
 
 ### Examples:
 | **GO Term** | **Name** | **Description** |
-|--------------|-----------|-----------------|
+|--|--|--|
 | GO:0005634 | Nucleus | Location of DNA and RNA synthesis. |
 | GO:0005739 | Mitochondrion | Organelle for energy production. |
 | GO:0005886 | Plasma membrane | Cell boundary controlling transport and signaling. |
 | GO:0005811 | Lipid droplet | Site of fat storage and metabolism. |
 | GO:0043234 | Protein complex | Functional assemblies of proteins. |
 
----
 
 ## The Hierarchical Structure of GO
 
@@ -110,5 +103,53 @@ GO terms are organized as a **Directed Acyclic Graph (DAG)** rather than a simpl
   - **part_of** → indicates inclusion in a larger process
   - **regulates** → indicates influence on another process
 
-### Example (simplified):
+## GO Annotations
 
+A **GO annotation** links a gene (or protein) to a specific GO term, describing what is known about it.
+
+### Example: The Human TP53 Gene
+
+| **Gene** | **GO Term** | **Ontology** | **Description** |
+|--|--||--|
+| TP53 | GO:0003700 | MF | DNA-binding transcription factor activity |
+| TP53 | GO:0006977 | BP | DNA damage response, signal transduction |
+| TP53 | GO:0005634 | CC | Nucleus |
+
+Each annotation provides context on **what the gene does**, **where**, and **why**.
+
+## Evidence Codes
+
+Each GO annotation includes an **evidence code** describing *how* the association was inferred.
+
+| **Evidence Code** | **Meaning** | **Example** |
+|--|-|--|
+| **IDA** | Inferred from Direct Assay | Lab experiment proving the function |
+| **IMP** | Inferred from Mutant Phenotype | Based on gene knockout results |
+| **IEA** | Inferred from Electronic Annotation | Automated computational prediction |
+| **ISS** | Inferred from Sequence or Structure Similarity | Based on homology |
+
+Annotations with experimental evidence (IDA, IMP) are generally more reliable.
+
+## Applications of Gene Ontology
+
+GO is widely used in **functional genomics**, **proteomics**, and **systems biology**.
+
+### 1. Functional Annotation
+Assign biological meaning to newly discovered genes or proteins.
+
+### 2. GO Enrichment Analysis
+Identify which biological processes or functions are **overrepresented** in a list of genes (e.g., in RNA-seq or microarray experiments).
+
+### 3. Cross-species Comparison
+Use GO terms to compare genes between species (e.g., yeast and human) since the vocabulary is universal.
+
+### 4. Pathway & Network Analysis
+Integrate genes into biological pathways or regulatory networks.
+
+## Conceptual Analogy
+
+| **Aspect** | **Molecular Function** | **Biological Process** | **Cellular Component** |
+|-||-|-|
+| **Question Answered** | *What does it do?* | *Why does it do it?* | *Where does it do it?* |
+| **Example (Cell Division)** | DNA polymerase activity | DNA replication → Cell cycle | Nucleus, spindle apparatus |
+| **Scale** | Single-step activity | Multi-step outcome | Structural location |
