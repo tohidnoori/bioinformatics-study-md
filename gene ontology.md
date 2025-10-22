@@ -1,6 +1,6 @@
-# 🧬 Gene Ontology (GO) – Complete Overview
+#  Gene Ontology (GO)  ⚙️
 
-## 📖 What is Gene Ontology?
+## What is Gene Ontology?
 
 **Gene Ontology (GO)** is a **bioinformatics framework** that provides a **standardized vocabulary** to describe the **roles, functions, and locations** of genes and their products (proteins, RNAs, etc.) across all species.
 
@@ -11,7 +11,7 @@ The **Gene Ontology Consortium (GOC)** created GO to unify this language — all
 
 ---
 
-## 🧩 Why Gene Ontology is Important
+## Why Gene Ontology is Important
 
 GO provides a **controlled vocabulary** and **hierarchical structure** for describing:
 1. What a gene product **does** (molecular function)
@@ -26,7 +26,7 @@ This makes it possible to:
 
 ---
 
-## 🧠 The Three Ontologies of GO
+##  The Three Ontologies of GO
 
 Gene Ontology is divided into **three main categories**, called **ontologies**:
 
@@ -40,14 +40,14 @@ Each gene can be annotated with multiple GO terms from all three ontologies.
 
 ---
 
-## ⚙️ 1. Biological Process (BP)
+## 1. Biological Process (BP)
 
-### 🔹 Definition:
+### Definition:
 A **Biological Process** represents a **series of molecular events** or **steps** that together accomplish a **biological goal**.
 
 > Think of it as the *“why”* or *purpose* of a gene product’s activity.
 
-### 🔹 Examples:
+### Examples:
 | **GO Term** | **Name** | **Description** |
 |--------------|-----------|-----------------|
 | GO:0007049 | Cell cycle | Sequence of events leading to cell division. |
@@ -56,19 +56,19 @@ A **Biological Process** represents a **series of molecular events** or **steps*
 | GO:0008285 | Negative regulation of cell proliferation | Slowing down or stopping cell growth. |
 | GO:0043473 | Pigmentation | Deposition of coloring matter in tissues. |
 
-### 🔹 Key Idea:
+### Key Idea:
 Each biological process consists of many molecular functions working together to achieve a biological outcome.
 
 ---
 
-## ⚛️ 2. Molecular Function (MF)
+## 2. Molecular Function (MF)  ⚛️
 
-### 🔹 Definition:
+### Definition:
 A **Molecular Function** describes the **elementary activity** or **biochemical task** performed by a single gene product.
 
 > It’s the *“what”* a protein or RNA does at the molecular level.
 
-### 🔹 Examples:
+### Examples:
 | **GO Term** | **Name** | **Description** |
 |--------------|-----------|-----------------|
 | GO:0003677 | DNA binding | Protein interacts selectively with DNA. |
@@ -77,19 +77,19 @@ A **Molecular Function** describes the **elementary activity** or **biochemical 
 | GO:0003700 | Transcription factor activity | Binds DNA and regulates transcription. |
 | GO:0016491 | Oxidoreductase activity | Catalyzes oxidation–reduction reactions. |
 
-### 🔹 Key Idea:
+### Key Idea:
 Molecular functions are the **atomic building blocks** of biological processes.
 
 ---
 
-## 🧫 3. Cellular Component (CC)
+## 3. Cellular Component (CC)
 
-### 🔹 Definition:
+### Definition:
 A **Cellular Component** is the **place or structure** where a gene product is active.
 
 > It’s the *“where”* of gene function.
 
-### 🔹 Examples:
+### Examples:
 | **GO Term** | **Name** | **Description** |
 |--------------|-----------|-----------------|
 | GO:0005634 | Nucleus | Location of DNA and RNA synthesis. |
@@ -100,7 +100,7 @@ A **Cellular Component** is the **place or structure** where a gene product is a
 
 ---
 
-## 🧭 The Hierarchical Structure of GO
+## The Hierarchical Structure of GO
 
 GO terms are organized as a **Directed Acyclic Graph (DAG)** rather than a simple tree.
 
