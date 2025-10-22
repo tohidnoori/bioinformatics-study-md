@@ -149,7 +149,8 @@ Integrate genes into biological pathways or regulatory networks.
 ## Conceptual Analogy
 
 | **Aspect** | **Molecular Function** | **Biological Process** | **Cellular Component** |
-|-||-|-|
+|-------------|------------------------|-------------------------|-------------------------|
 | **Question Answered** | *What does it do?* | *Why does it do it?* | *Where does it do it?* |
 | **Example (Cell Division)** | DNA polymerase activity | DNA replication → Cell cycle | Nucleus, spindle apparatus |
 | **Scale** | Single-step activity | Multi-step outcome | Structural location |
+
