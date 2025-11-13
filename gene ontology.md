@@ -29,7 +29,7 @@ This makes it possible to:
 Gene Ontology is divided into **three main categories**, called **ontologies**:
 
 | **Ontology** | **Abbreviation** | **Describes** | **Example** |
-|||-|--|
+|---|---|---|---|
 | **Biological Process** | BP | A series of molecular events achieving a biological goal | Cell division, apoptosis, photosynthesis |
 | **Molecular Function** | MF | The basic activity or role of a single gene product | ATP binding, enzyme activity |
 | **Cellular Component** | CC | The place in the cell where the gene product acts | Nucleus, mitochondrion, plasma membrane |
